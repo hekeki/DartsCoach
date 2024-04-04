@@ -21,6 +21,19 @@ With Darts Coach you can improve your darts to score like a pro
 * Knowledge - FAQ about darts
 
 # Screenshots 
-<img src="screenshots/ScreenshotMain.png" style="width: 33%">
-<img src="screenshots/ScreenshotMath.png" style="width: 33%">
-<img src="screenshots/ScreenshotTraining.png" style="width: 33%">
+<table>
+<tr>
+<th>Startscreen</th>
+<th>Scoreboard</th>
+<th>Training</th>
+<th>Math</th>
+<th>Knowledge</th>
+</tr>
+<tr>
+<td style="width: 25%"><img src="screenshots/ScreenshotMain.png"></td>
+<td style="width: 25%">Scoreboard is in progress</td>
+<td style="width: 25%"><img src="screenshots/ScreenshotTraining.png"></td>
+<td style="width: 25%"><img src="screenshots/ScreenshotMath.png"> </td>
+<td style="width: 25%">Knowledge is in progress</td>
+</tr>
+</table>
