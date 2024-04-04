@@ -29,12 +29,10 @@ With Darts Coach you can improve your darts to score like a pro
 * Knowledge - FAQ about darts
 
 # Screenshots
-<p>
-<span>
-<img src="screenshots/ScreenshotMain.png" style="width: 25%">
-<img src="screenshots/ScreenshotTraining.png" style="width: 25%">
-<img src="screenshots/ScreenshotMath.png" style="width: 25%">
-</span>
+<p float="left">
+<img src="screenshots/ScreenshotMain.png" width="150">
+<img src="screenshots/ScreenshotTraining.png" width="150">
+<img src="screenshots/ScreenshotMath.png" width="150">
 </p>
 
 
