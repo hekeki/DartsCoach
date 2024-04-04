@@ -17,7 +17,15 @@ With Darts Coach you can improve your darts to score like a pro
 # Features
 * Scoreboard - Calculate your throwing dart scores
 * Training - Improve your scoring or doubles or create a plan
+  * Training games
+  * Training plan
+  * Statistics
+  * Mental training
 * Math - Learn checkouts and calculate like a pro
+  * Calculation game
+  * Checkout game
+  * Checkout trainer
+  * Checkout tables
 * Knowledge - FAQ about darts
 
 # Screenshots 
